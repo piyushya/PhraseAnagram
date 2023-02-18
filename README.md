@@ -2,8 +2,6 @@
 
 A simple anagram generator from a phrase of multiple words
 
-## usage :
-
 Enter name : sumit singh<br>
 ghi<br>
 ghis<br>
